@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0c0ab3e1f60a4ee3b277b70026439d70/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c0ab3e1f60a4ee3b277b70026439d70
+run_name: sneaky-loon-409
+run_uuid: 0c0ab3e1f60a4ee3b277b70026439d70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739054331398
+status: 1
+tags: []
+user_id: chirine_ourari

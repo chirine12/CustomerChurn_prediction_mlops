@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fc9d63aff7bd4c56a472eb54b6943f7d/artifacts
+end_time: 1739127101763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc9d63aff7bd4c56a472eb54b6943f7d
+run_name: adventurous-rook-768
+run_uuid: fc9d63aff7bd4c56a472eb54b6943f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739127036868
+status: 3
+tags: []
+user_id: chirine_ourari

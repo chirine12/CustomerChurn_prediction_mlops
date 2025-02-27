@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d4ff7a6f4b394b4e89cd8d06701e297b/artifacts
+end_time: 1739128786548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4ff7a6f4b394b4e89cd8d06701e297b
+run_name: flawless-whale-663
+run_uuid: d4ff7a6f4b394b4e89cd8d06701e297b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739128786471
+status: 3
+tags: []
+user_id: chirine_ourari

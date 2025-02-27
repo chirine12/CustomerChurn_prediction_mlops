@@ -1,0 +1,11 @@
+numpy==1.23.5
+pandas
+scikit-learn
+matplotlib
+jupyter
+mlflow
+fastapi 
+uvicorn
+joblib
+imbalanced-learn
+

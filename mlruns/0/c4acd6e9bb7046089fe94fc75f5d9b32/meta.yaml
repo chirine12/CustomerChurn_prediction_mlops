@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c4acd6e9bb7046089fe94fc75f5d9b32/artifacts
+end_time: 1739038976068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4acd6e9bb7046089fe94fc75f5d9b32
+run_name: languid-trout-76
+run_uuid: c4acd6e9bb7046089fe94fc75f5d9b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739038901631
+status: 4
+tags: []
+user_id: chirine_ourari

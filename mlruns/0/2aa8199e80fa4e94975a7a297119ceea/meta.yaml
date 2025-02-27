@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2aa8199e80fa4e94975a7a297119ceea/artifacts
+end_time: 1739125195250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2aa8199e80fa4e94975a7a297119ceea
+run_name: bustling-cat-761
+run_uuid: 2aa8199e80fa4e94975a7a297119ceea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739125105996
+status: 3
+tags: []
+user_id: chirine_ourari

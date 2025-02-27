@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9ab96da313944e6ebab6ae6d35a6e9c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ab96da313944e6ebab6ae6d35a6e9c2
+run_name: amazing-squid-902
+run_uuid: 9ab96da313944e6ebab6ae6d35a6e9c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739053444288
+status: 1
+tags: []
+user_id: chirine_ourari

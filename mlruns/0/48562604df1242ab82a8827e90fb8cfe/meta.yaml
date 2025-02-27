@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/48562604df1242ab82a8827e90fb8cfe/artifacts
+end_time: 1739125497032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48562604df1242ab82a8827e90fb8cfe
+run_name: bedecked-crow-132
+run_uuid: 48562604df1242ab82a8827e90fb8cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739125411802
+status: 3
+tags: []
+user_id: chirine_ourari
